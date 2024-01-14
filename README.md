@@ -1,5 +1,5 @@
 ﻿
-![Brief-1](Brief-1.jpg "Brief-1")
+![Brief-1](brief-1.jpg "Brief-1")
 
 # Participer à la phase d'analyse d'un projet Data / IA
 
